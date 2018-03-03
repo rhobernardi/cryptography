@@ -22,6 +22,7 @@ int main(int argc, char const *argv[])
 			printf("\t-h, --help \t this help.\n");
 			printf("\t-e, --encrypt \t encrypt a message with a key.\n");
 			printf("\t-d, --decrypt \t decrypt a message with a key.\n");
+			
 			printf("\t-ef, --encrypt-file \t encrypt a file with a key.\n");
 			printf("\t-df, --decrypt-file \t decrypt a file with a key.\n\n");
 
